@@ -1,3 +1,5 @@
+#Codigo hecho por: Carlos Téllez
+
 # Verificamos si un número es primo
 def es_primo(n):
     if n < 2:
